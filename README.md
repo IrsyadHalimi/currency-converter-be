@@ -1,5 +1,6 @@
-## Backend currency convert app with node.js
-
+## Backend currency convert app node.js integrated with Exchangerate.host API
+create api access key here: https://exchangerate.host/
+just clone and install
 ```bash
 npm install
 ```
